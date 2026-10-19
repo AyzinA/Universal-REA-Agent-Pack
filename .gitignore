@@ -1,0 +1,18 @@
+# Keep private, large and volatile analysis artifacts out of Git
+work/evidence/
+work/snapshots/
+work/raw/
+work/*.json
+*.bin
+*.dmp
+*.core
+*.apk
+*.exe
+*.dll
+*.so
+*.dylib
+*.asar
+*.ipa
+*.har
+*.saz
+__pycache__/
